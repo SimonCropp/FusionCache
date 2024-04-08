@@ -10,7 +10,6 @@
 		<Description>FusionCache is an easy to use, fast and robust cache with advanced resiliency features and an optional distributed 2nd level.</Description>
 		<PackageTags>caching;cache;multi-level;multilevel;fusion;fusioncache;fusion-cache;performance;async;ziggy</PackageTags>
 		<RootNamespace>ZiggyCreatures.Caching.Fusion</RootNamespace>
-		<DocumentationFile>ZiggyCreatures.FusionCache.xml</DocumentationFile>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageReleaseNotes>
 			- Perf: zero allocations/minimal cpu usage in Get happy path
